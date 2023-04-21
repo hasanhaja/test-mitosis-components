@@ -1,0 +1,17 @@
+{
+  "name": "test-mitosis-components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "pnpm exec mitosis build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@builder.io/mitosis": "^0.0.83",
+    "@builder.io/mitosis-cli": "^0.0.41",
+    "prettier": "^2.8.1"
+  }
+}
